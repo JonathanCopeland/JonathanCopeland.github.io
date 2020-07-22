@@ -10393,10 +10393,21 @@ body {
   }
 }
 
-#test {  
+@keyframes easyLoad {
+  0% {
+    opacity: 0.0;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+
+#cardLoad {  
   /* This section calls the slideInFromLeft animation we defined above */
   animation: 2.5s ease-out 0s 1 slideInFromLeft;
-  
-  background: #333;
-  padding: 30px;
+}
+
+#profileLoad {  
+  /* This section calls the slideInFromLeft animation we defined above */
+  animation: 1s ease-in 0s 1 easyLoad;
 }
