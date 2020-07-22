@@ -10383,3 +10383,20 @@ body {
   }
 
 }
+
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+#test {  
+  /* This section calls the slideInFromLeft animation we defined above */
+  animation: 2.5s ease-out 0s 1 slideInFromLeft;
+  
+  background: #333;
+  padding: 30px;
+}
