@@ -10312,7 +10312,7 @@ h2 {
 }
 
 .masthead {
-  padding-bottom: 100px;
+  padding-bottom: 70px;
   padding-top: 120px;
 }
 
@@ -10344,8 +10344,8 @@ body {
 }
 
 .nav-link {
-  padding-right: 17px;
-  padding-left: 17px;
+  padding-right: 20px;
+  padding-left: 20px;
   color: #2A2F33;
 }
 
@@ -10382,6 +10382,8 @@ body {
     margin-bottom: 30px;
   }
 
+
+
 }
 
 @keyframes slideInFromLeft {
@@ -10405,9 +10407,36 @@ body {
 #cardLoad {  
   /* This section calls the slideInFromLeft animation we defined above */
   animation: 2.5s ease-out 0s 1 slideInFromLeft;
+
+  margin-bottom: 50px;;
 }
 
 #profileLoad {  
   /* This section calls the slideInFromLeft animation we defined above */
   animation: 1s ease-in 0s 1 easyLoad;
+}
+
+#summary {
+  background-color: #2A2F33;
+  border: none;
+  margin-top: -20px;
+  margin-bottom: 50px;
+
+}
+
+#summary:hover {
+  background-color: #69757E;
+
+}
+
+#contact {
+  margin-top: 50px;;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #6AABE8;
+  border: none;
+}
+
+#contact:hover {
+  background-color: #3872A9;
 }
