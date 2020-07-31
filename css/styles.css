@@ -10419,9 +10419,8 @@ body {
 #summary {
   background-color: #2A2F33;
   border: none;
-  margin-top: -20px;
+  margin-top: 100px;
   margin-bottom: 50px;
-
 }
 
 #summary:hover {
@@ -10441,3 +10440,10 @@ body {
   background-color: #3872A9;
 }
 
+.top {
+  z-index: 2;
+}
+
+.bottom {
+  z-index: 1;
+}
