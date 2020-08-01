@@ -10276,7 +10276,7 @@ form .row:first-child .floating-label-form-group {
 .one-edge-shadow1 {
   box-shadow: 0 0px 0px 0px #496382;
   transition: 0.3s;
-  
+
 }
 
 .one-edge-shadow1:hover {
@@ -10377,10 +10377,6 @@ body {
 
   p {
     font-size: 1rem !important;
-  }
-
-  .video {
-    margin-bottom: 30px;
   }
 
 
