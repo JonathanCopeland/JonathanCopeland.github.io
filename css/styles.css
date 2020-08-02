@@ -10469,7 +10469,89 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-    /* #portfolio {
-      background-color: #5e6468;
-    } */
+    #portfolio {
+      background-color: #182527;
+    }
+
+    .masthead {
+      background-color: #182527;
+    }
+
+    .bg-primary {
+      background-color: #182527 !important;
+    }
+
+    .bg-secondary {
+      background-color: #182527 !important;
+
+    }
+
+    .masthead-heading {
+      color: #E2E8EC;
+    }
+
+    .nav-link {
+      padding-right: 20px;
+      padding-left: 20px;
+      color: #E2E8EC;
+    }
+    
+    .nav-link:hover {
+      padding-right: 20px;
+      padding-left: 20px;
+      color: #a7adb1;
+    }
+
+    .one-edge-shadow1 {
+      box-shadow: 0 0px 0px 0px rgba(73, 98, 130, 0.3);
+      transition: 0.3s;
+    
+    }
+    
+    .one-edge-shadow1:hover {
+      box-shadow: 0 45px 50px -6px rgba(73, 98, 130, 0.3);
+      transition: 0.3s;
+    }
+    
+    .one-edge-shadow2 {
+      box-shadow: 0 0px 0px 0px rgba(89, 102, 51, 0.3);
+      transition: 0.3s;
+    }
+    
+    .one-edge-shadow2:hover {
+      box-shadow: 0 45px 50px -6px rgba(89, 102, 51, 0.3);
+      transition: 0.3s;
+    }
+    
+    .one-edge-shadow3 {
+      box-shadow: 0 0px 0px 0px rgba(73, 73, 86, 0.3);
+      transition: 0.3s;
+    }
+    
+    .one-edge-shadow3:hover {
+      box-shadow: 0 45px 50px -6px rgba(73, 73, 86, 0.3);
+      transition: 0.3s;
+      
+    }
+
+    #sayHiButton button {
+      background-color: #4d7ca8;
+    }
+    
+    #sayHiButton button:hover {
+      background-color: #2b5072;
+    }
+
+    .buttonStyle button {
+      background-color: #394046;
+    }
+    
+    .buttonStyle button:hover {
+      background-color: #2A2F33;
+    }
+    
+    .footer {
+      background-color: #2A2F33;
+    }
+
 }
