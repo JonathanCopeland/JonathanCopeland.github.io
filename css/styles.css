@@ -10269,6 +10269,7 @@ form .row:first-child .floating-label-form-group {
 /* ******************************************************** */
 /* ******************************************************** */
 
+
 #portfolio {
   background-color: #E2E8EC;
 }
@@ -10468,6 +10469,13 @@ body {
   background-color: #96cbfd;
 }
 
+.myProfile {
+  background: url("../assets/img/profile.png") no-repeat;
+  background-size: 250px 250px;
+  width: 250px !important;
+  height: 250px;
+}
+
 @media (prefers-color-scheme: dark) {
     #portfolio {
       background-color: #182527;
@@ -10487,6 +10495,10 @@ body {
     }
 
     .masthead-heading {
+      color: #E2E8EC;
+    }
+
+    .masthead-subheading {
       color: #E2E8EC;
     }
 
@@ -10554,4 +10566,16 @@ body {
       background-color: #2A2F33;
     }
 
+    .myProfile {
+      background: url("../assets/img/profileDark.png") no-repeat;
+      background-size: 250px 250px;
+
+    }
+
 }
+
+
+
+
+
+
