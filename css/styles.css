@@ -10476,6 +10476,14 @@ body {
   height: 250px;
 }
 
+.recommendations {
+  opacity: 0.5;
+}
+
+.recommendations a {
+  color: #fff;
+}
+
 @media (prefers-color-scheme: dark) {
     #portfolio {
       background-color: #182527;
@@ -10572,11 +10580,16 @@ body {
 
     }
 
+    .recommendations a {
+      color: #E2E8EC;
+    }
+    
+
 }
 
-.recommendations {
-  opacity: 0.5;
-}
+
+
+
 
 
 
