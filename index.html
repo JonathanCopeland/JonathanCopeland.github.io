@@ -1,0 +1,52 @@
+---
+layout: default
+title: Blog
+featured_image: /images/social.jpg
+---
+
+<section class="listing single">
+
+	<div class="wrap">
+
+		{% for post in paginator.posts %}
+
+		<article class="listing-post">
+
+			<div class="listing-post__content">
+
+					<h2>{{ post.title }}</h2>
+					<p class="subtitle">{{ post.date | date_to_long_string }}</p>
+			
+					{{ post.content }}
+
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+		{% if paginator.total_pages > 1 %}
+
+		<section class="pagination">
+		
+			{% if paginator.previous_page %}
+			<div class="pagination__prev">
+				<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--large"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
+			</div>
+			{% endif %}
+		
+			{% if paginator.next_page %}
+			<div class="pagination__next">
+				<a href="{{ paginator.next_page_path | relative_url }}" class="button button--large"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+			</div>
+			{% endif %}
+		
+		</section>
+		
+		{% endif %}
+
+
+	</div>
+
+</section>
+
