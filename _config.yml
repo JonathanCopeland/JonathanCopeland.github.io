@@ -1,7 +1,7 @@
 site: Jonathan Copeland
 
-url: 
-baseurl: jonathancopeland.github.io
+baseurl: /PROJECT
+url: http://USERNAME.github.io
 
 collections:
   pages:
