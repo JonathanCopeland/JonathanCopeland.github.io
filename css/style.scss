@@ -7,8 +7,6 @@
 @import "_mixins";
 @import "_plugins";
 
-
-
 // - - - - - - - - - - Variables
 
 
@@ -116,15 +114,12 @@ $blockquote-lineheight: {{ site.data.settings.font_settings.blockquote.line_heig
 $button-weight: {{ site.data.settings.font_settings.buttons.weight }};
 $button-spacing: {{ site.data.settings.font_settings.buttons.letter_spacing }}em;
 
-
 // Logo
 $logo-width: {{ site.data.settings.header_settings.logo_width }}px;
 
 
 // Grid item
 $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
-
-
 
 // - - - - - - - - - - Global styles
 
@@ -138,8 +133,6 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_gallery";
 @import "_includes/_syntax";
 @import "_includes/_contact-form";
-
-
 
 // - - - - - - - - - - Section styles
 

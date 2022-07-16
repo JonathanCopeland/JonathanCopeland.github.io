@@ -44,9 +44,10 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-paginate
+  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
-paginate: 2
+paginate: 6
 paginate_path: "/blog/page:num/"
   
