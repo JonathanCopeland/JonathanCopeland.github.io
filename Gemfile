@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem "webrick", "~> 1.7"
+gem "github-pages", "~> 203"
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
