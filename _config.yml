@@ -1,6 +1,6 @@
 site: Jonathan Copeland
 
-baseurl: /PROJECT
+baseurl: /
 url: http://USERNAME.github.io
 
 collections:
