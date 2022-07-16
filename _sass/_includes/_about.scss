@@ -1,0 +1,44 @@
+// - - - - - - - - - - - - - - - - - -
+
+// About
+
+// - - - - - - - - - - - - - - - - - -
+
+
+.test {
+	margin-top: 32px;
+	background-color: #fff;
+	padding-top: 24px;
+	padding-bottom: 24px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 12px;
+
+	@include mq(tabletp) {
+		margin-top: 32px;
+		padding-top: 40px;
+		padding-bottom: 40px;
+		padding-left: 44px;
+		padding-right: 44px;
+	}
+
+	@include mq(tabletl) {
+		margin-top: 32px;
+		padding-top: 40px;
+		padding-bottom: 40px;
+		padding-left: 44px;
+		padding-right: 44px;
+	}
+
+	@include mq(laptop) {
+		margin-top: 32px;
+		padding-top: 40px;
+		padding-bottom: 40px;
+		padding-left: 44px;
+		padding-right: 44px;
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+}

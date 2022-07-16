@@ -386,14 +386,14 @@ section {
 .wrap {
 	position: relative;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 0 16px;
 
 	@include mq(tabletp) {
-		padding: 0 80px;
+		padding: 0 5%;
 	}
 
 	@include mq(tabletl) {
-		padding: 0 120px;
+		padding: 0 15%;
 	}
 
 	@include mq(laptop) {
@@ -478,7 +478,8 @@ section {
 
 @media (prefers-color-scheme: dark) {
     body {
-      color: pink;
+		background: $background-color;
+
     }
 
 }

@@ -10,19 +10,29 @@
 // - - - - - - - - - - Variables
 
 
-// Colors
+// Light colors
 
-$background-color: {{ site.data.settings.color_settings.background_color }};
-$background-alt-color: {{ site.data.settings.color_settings.background_alt_color }};
-$border-color: {{ site.data.settings.color_settings.border_color }};
+$background-color: {{ site.data.settings.light_color_settings.background_color }};
+$background-alt-color: {{ site.data.settings.light_color_settings.background_alt_color }};
+$border-color: {{ site.data.settings.light_color_settings.border_color }};
+$text-dark-color: {{ site.data.settings.light_color_settings.text_dark_color }};
+$text-medium-color: {{ site.data.settings.light_color_settings.text_medium_color }};
+$text-light-color: {{ site.data.settings.light_color_settings.text_light_color }};
+$accent-color: {{ site.data.settings.light_color_settings.accent_color }};
+$error-color: {{ site.data.settings.light_color_settings.error_color }};
+$card_color: {{ site.data.settings.light_color_settings.card_color }};
 
-$text-dark-color: {{ site.data.settings.color_settings.text_dark_color }};
-$text-medium-color: {{ site.data.settings.color_settings.text_medium_color }};
-$text-light-color: {{ site.data.settings.color_settings.text_light_color }};
+// // Dark colors
 
-$accent-color: {{ site.data.settings.color_settings.accent_color }};
-
-$error-color: {{ site.data.settings.color_settings.error_color }};
+// $background-color-dark: {{ site.data.settings.color_settings.background_color }};
+// $background-alt-color-dark: {{ site.data.settings.color_settings.background_alt_color }};
+// $border-color-dark: {{ site.data.settings.color_settings.border_color }};
+// $text-dark-color-dark: {{ site.data.settings.color_settings.text_dark_color }};
+// $text-medium-color-dark: {{ site.data.settings.color_settings.text_medium_color }};
+// $text-light-color-dark: {{ site.data.settings.color_settings.text_light_color }};
+// $accent-color-dark: {{ site.data.settings.color_settings.accent_color }};
+// $error-color-dark: {{ site.data.settings.color_settings.error_color }};
+// $card_color-dark: {{ site.data.settings.color_settings.card_color }};
 
 
 // Fonts
@@ -129,13 +139,12 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_footer";
 
 @import "_includes/_content";
-@import "_includes/_socials";
 @import "_includes/_gallery";
 @import "_includes/_syntax";
-@import "_includes/_contact-form";
 
 // - - - - - - - - - - Section styles
 
 @import "_includes/_listing";
+@import "_includes/_about";
 
 
