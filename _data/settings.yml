@@ -32,20 +32,6 @@ light_color_settings:
   error_color: '#D64541'
   card_color: '#FFF'
 
-# dark_color_settings:
-#   background_color_dark: '#1E1E1E'
-#   background_dark_color_dark: '#EFEFEF'
-#   background_alt_color_dark: '#f4f5f6'
-#   text_dark_color_dark: '#2A2F36'
-#   text_medium_color_dark: '#323130'
-#   text_light_color_dark: '#ABB7B7'
-#   accent_color_dark: '#ee983d'
-#   border_color_dark: '#f7d7b6'
-#   overlay_background_color_dark: '#161B21'
-#   overlay_text_color_dark: '#ffffff'
-#   error_color_dark: '#D64541'
-#   card_color_dark: '#333333'
-
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">'
   title_font: '"Inter", sans-serif'
