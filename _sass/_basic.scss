@@ -207,6 +207,10 @@ a {
 	}
 }
 
+.permalink {
+	border-bottom: 2px solid #ee983d;
+}
+
 .button {
 	display: inline-block;
 	padding: 9px 10px 10px;
@@ -474,11 +478,26 @@ section {
 	}
 }
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Dark mode
+// // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Dark mode
 
-@media (prefers-color-scheme: dark) {
-    body {
-		background: $background-color;
+// @media (prefers-color-scheme: dark) {
+//     body {
+// 		background: $background-color;
 
-    }
+//     }
+// }
+
+// - - back
+
+#back {
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	gap: 8px;
+}
+
+#back img {
+	display: inline;
+	width: 32px;
+	height: 32px;
 }

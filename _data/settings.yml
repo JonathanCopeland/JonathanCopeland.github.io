@@ -7,20 +7,20 @@ header_settings:
   avatar_image: /images/profileLight.png
   logo_image: 
   logo_width: 200
-  link_icon: /images/external-link.svg
+  back_icon: /images/back.svg
 
 menu_settings:
   menu_items:
-    - title: 'Notes'
+    - title: 'Posts'
       url: '/'
     - title: 'About'
-      url: '/about'
+      url: '/about.html'
 
 grid_settings:
   grid_spacing: 10
 
 light_color_settings:
-  background_color: '#EFEFEF'
+  background_color: '#F3F2F1'
   background_dark_color: '#EFEFEF'
   background_alt_color: '#f4f5f6'
   text_dark_color: '#2A2F36'

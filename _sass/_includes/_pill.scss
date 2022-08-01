@@ -5,34 +5,39 @@
 // - - - - - - - - - - - - - - - - - -
 
 .pill {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
 	margin-top: 32px;
 	background-color: $card_color;
-	padding-top: 24px;
-	padding-bottom: 24px;
+	padding-top: 16px;
+	padding-bottom: 16px;
 	padding-left: 20px;
 	padding-right: 20px;
 	border-radius: 12px;
+	background-color: #EDEBE9;
 
 	@include mq(tabletp) {
 		margin-top: 32px;
-		padding-top: 40px;
-		padding-bottom: 40px;
+		padding-top: 20px;
+		padding-bottom: 20px;
 		padding-left: 44px;
 		padding-right: 44px;
 	}
 
 	@include mq(tabletl) {
 		margin-top: 32px;
-		padding-top: 40px;
-		padding-bottom: 40px;
+		padding-top: 20px;
+		padding-bottom: 20px;
 		padding-left: 44px;
 		padding-right: 44px;
 	}
 
 	@include mq(laptop) {
 		margin-top: 32px;
-		padding-top: 40px;
-		padding-bottom: 40px;
+		padding-top: 20px;
+		padding-bottom: 20px;
 		padding-left: 44px;
 		padding-right: 44px;
 	}

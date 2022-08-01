@@ -14,10 +14,8 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /notes/:slug
-  # projects:
-  #   output: true
-  #   permalink: /project/:slug
+    permalink: /posts/:slug
+
 
 defaults:
   -
@@ -25,26 +23,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
 
-  
 sass:
   style: compressed
 
