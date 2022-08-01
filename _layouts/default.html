@@ -30,7 +30,12 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
-	
+
+	<!-- RSS -->
+	{% feed_meta %}
+
+	<!-- SEO -->
+	{% seo %}
 </head>
 
 

@@ -112,17 +112,12 @@
 		}
 
 		@include mq(tabletl) {
-			max-width: 75%;
 		}
 
 		@include mq(laptop) {
 			margin: 40px auto;
-			max-width: 70%;
 		}
 
-		@include mq(desktop) {
-			max-width: 65%;
-		}
 	}
 
 	.highlight {

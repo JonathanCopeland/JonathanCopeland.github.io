@@ -173,11 +173,11 @@ blockquote {
 	line-height: $blockquote-lineheight;
 
 	@include mq(tabletp) {
-		font-size: $blockquote-medium;
+		font-size: $blockquote-small;
 	}
 
 	@include mq(laptop) {
-		font-size: $blockquote-large;
+		font-size: $blockquote-small;
 	}
 
 	p {
@@ -187,11 +187,11 @@ blockquote {
 		line-height: $blockquote-lineheight;
 
 		@include mq(tabletp) {
-			font-size: $blockquote-medium;
+			font-size: $blockquote-small;
 		}
 
 		@include mq(laptop) {
-			font-size: $blockquote-large;
+			font-size: $blockquote-small;
 		}
 	}
 }
@@ -481,5 +481,4 @@ section {
 		background: $background-color;
 
     }
-
 }

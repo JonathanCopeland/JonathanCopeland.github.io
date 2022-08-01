@@ -1,7 +1,12 @@
 site: Jonathan Copeland
 
+url: jcopeland.co
+title: Jonathan Copeland
+subtitle: Helping people feel smarter in their day-to-day lives
+author: Jonathan Copeland
+description:
+
 baseurl: /
-url: http://USERNAME.github.io
 
 collections:
   pages:
@@ -10,9 +15,9 @@ collections:
   posts:
     output: true
     permalink: /notes/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
+  # projects:
+  #   output: true
+  #   permalink: /project/:slug
 
 defaults:
   -

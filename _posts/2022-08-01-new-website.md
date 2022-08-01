@@ -1,6 +1,8 @@
 ---
 title: 'DJing on the hedonic treadmill'
 date: 2018-07-16 00:00:00
+featured_image: '/images/demo/demo-square.jpg'
+excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 ---
 
 ![](/images/289577990_702488910811830_3202312536929354035_n-2.jpg)
