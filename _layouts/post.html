@@ -4,12 +4,14 @@ layout: default
 
 <section class="listing single">
 	<div class="wrap">
-		<a id="back" href="../index.html">
-			<img src="{{ site.data.settings.header_settings.back_icon | relative_url }}" >
-			<span>
-				Return to home
-			</span> 
-		</a>
+		<div id="post__header">
+			<a id="back" href="/">
+				<img src="{{ site.data.settings.header_settings.back_icon | relative_url }}" >
+				<span>
+					Back
+				</span> 
+			</a>
+		</div>
 		<article class="listing-post">
 			<div class="listing-post__content">
 				<h2>{{ page.title }}</h2>

@@ -131,7 +131,7 @@
 		// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Active links
 
 		// Switch active link states
-		$('.active-link').removeClass('active-link');
+		// $('.active-link').removeClass('active-link');
 		$('a[href="' + navTarget + '"]').addClass('active-link');
 
 

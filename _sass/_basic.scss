@@ -208,7 +208,7 @@ a {
 }
 
 .permalink {
-	border-bottom: 2px solid #ee983d;
+	border-bottom: 2px solid $accent-color;
 }
 
 .button {
@@ -280,7 +280,7 @@ hr {
 	margin: 40px 0;
 	border: 0;
 	height: 2px;
-	background: $border-color;
+	background: $accent-color;
 }
 
 ::selection 	 { background: $accent-color; color: $background-color; }

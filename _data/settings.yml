@@ -11,7 +11,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Posts'
+    - title: 'Notes'
       url: '/'
     - title: 'About'
       url: '/about.html'
@@ -26,7 +26,7 @@ light_color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#323130'
   text_light_color: '#ABB7B7'
-  accent_color: '#ee983d'
+  accent_color: '#0F6CBD'
   border_color: '#f7d7b6'
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
