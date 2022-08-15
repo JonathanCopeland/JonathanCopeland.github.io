@@ -98,15 +98,16 @@
 
 .menu__list__item {
 	display: inline-block;
-	padding: 0 5px;
+	margin-top: 12px;
+	// padding: 0 5px;
 
-	@include mq(tabletp) {
-		padding: 0 8px;
-	}
+	// @include mq(tabletp) {
+	// 	padding: 0 8px;
+	// }
 
-	@include mq(laptop) {
-		padding: 0 12px;
-	}
+	// @include mq(laptop) {
+	// 	padding: 0 12px;
+	// }
 }
 
 .menu__list__item__link {
