@@ -4,13 +4,10 @@ date: 2022-08-14 00:00:00
 layout: post
 ---
 
-I have this book
 It's been a joy to rediscover and appreciate many of the apps that first lead me to become interested in digital design, through [The iOS App Icon Book](https://www.appiconbook.com) by [Michael Flarup](https://flarup.co).
 
-It's good because of it helps preserve history 
 Digital products are difficult to preserve. Design is never done, products evolve, dependencies decouple, all making it difficult to go back and observe and learn from the work that brought us to where we are today. It's becasue of this that books like The iOS App Icon Book are so important, becasue they help preserve our digital history.
 
-A history that you can learn from today
 The high-quality images help you notice and pay attention to the details, elevating the craftsmanship. As Michael Flarup says, "Designing app icons is design, *distilled*". You first need to understand the value an app provides before you can visually communicate it through a mix of branding, typography and platform trends.
 
 I've been inspired to recreate the icons from some of my favourite apps, and this process of breaking down and building up great design has been energising and inspiring. 
