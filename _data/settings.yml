@@ -11,7 +11,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Notes'
+    - title: 'Blog'
       url: '/'
     - title: 'About'
       url: '/about.html'
