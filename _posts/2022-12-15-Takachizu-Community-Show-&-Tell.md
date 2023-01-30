@@ -10,5 +10,6 @@ The site uses bold colours, typography and layout to surface everyday "gathered 
 
 > "The Japanese words Takara (“Treasure”) and Chizu (“Map”) join to form “Takachizu” (“treasure map”). Takachizu is a community “show & tell” gathering space designed to identify and reflect on that which is most valuable, celebrated, and in need of protection in Little Tokyo." - Takachizu, about page
 
-<iframe src=“https://onedrive.live.com/embed?resid=FE13AC36E9AE48E9%2123280&authkey=!AAowvTReElsIy8g” width=“5847” height=“2630” frameborder=“0” scrolling=“no” />
+[![Screenshots of Takachizu website](https://onedrive.live.com/embed?resid=FE13AC36E9AE48E9%2123280&authkey=!AAowvTReElsIy8g)]
+
 <figcaption align = "center"><b>The Home, About and Archive pages.</b></figcaption>
