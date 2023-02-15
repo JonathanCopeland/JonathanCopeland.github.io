@@ -391,6 +391,7 @@ section {
 	position: relative;
 	margin: 0 auto;
 	padding: 0 16px;
+	
 
 	@include mq(tabletp) {
 		padding: 0 5%;
@@ -405,7 +406,7 @@ section {
 	}
 
 	@include mq(desktop) {
-		padding: 0 20%;
+		padding: 0 30%;
 	}
 }
 
