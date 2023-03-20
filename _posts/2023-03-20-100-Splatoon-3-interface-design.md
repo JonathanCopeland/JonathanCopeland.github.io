@@ -26,7 +26,7 @@ Something about Splatoon 3 that's especially caught my eye has been its interact
 ![](/images/posts/Splatoon4.jpg)
 <figcaption align = "center"><b>Previous matches are saved in a history tab, and the player can see a picture of the map, ink colours used in the match as well their team’s score represented in a flowing lozenge of ink.</b></figcaption>
 
-![](/images/posts/Splatoon5.jpg)
+![](/images/posts/Splatoon5.JPG)
 <figcaption align = "center"><b>Rules are always accessible and displayed as a stack of scrapbook like cards, using images, and minimal text.</b></figcaption>
 
 ### In-game 
@@ -39,17 +39,17 @@ Something about Splatoon 3 that's especially caught my eye has been its interact
 
 ### Post-game
 
-![](/images/posts/Splatoon8.jpg)
+![](/images/posts/Splatoon8.JPG)
 <figcaption align = "center"><b>Points are tallied in a flowing lozenge of ink, accompanied with the labels of ‘Good Guys’ and ‘Bad Guys’. When the ‘Good Guys’ win, the screen breaks into celebration, with rock music, confetti and a range of in-season stickers dropping down and framing the map and score.</b></figcaption>
 
 
 ### Bonus
 
-![](/images/posts/Splatoon9.jpg)
+![](/images/posts/Splatoon9.JPG)
 <figcaption align = "center"><b>As players progress, they unlock additional gear and items from the season’s Catalog. The Catalog is represented as a magazine that players can page through to see seasonal content.</b></figcaption>
 
 
-![](/images/posts/Splatoon10.jpg)
+![](/images/posts/Splatoon10.JPG)
 <figcaption align = "center"><b>The use of skeuomorphism continues in the Alterna story mode, where players create a scrapbook of things they learn as the story progresses. These scraps range from post-it notes, to stickers, magazine cut-outs and pencil scribbles, all adding context to the Splatoon world and lore.</b></figcaption>
 
 Links:
