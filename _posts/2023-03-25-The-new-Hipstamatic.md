@@ -8,10 +8,9 @@ The new [Hipstamatic](http://hipstamatic.com/x/) is one of the best of examples 
 
 It's full of moments of delight and craft, with tasteful animations throughout. 
 
-Also, leveraging [App Clips](https://developer.apple.com/app-clips/) on the web as a sub-step between web pages and the App Store feels right. Users get a chance to get a feel for your app without getting redirected and having to go through the whole process of entering their Apple ID and starting a download. Try it [here](https://hipstamatic.app/hello), or see a screen recording below. 
+Also, leveraging [App Clips](https://developer.apple.com/app-clips/) on the web as a sub-step between web pages and the App Store feels right. Users get a chance to get a feel for your app without getting redirected and having to go through the whole process of entering their Apple ID and starting a download. Try it [here](https://hipstamatic.app/hello).
 
-<video src=“/images/posts/Hipstamatic-App-Clip.mov” width=“320” height=“240” controls></video>
-
+![](/images/posts/Hipstamatic-App-Clip.png)
 <figcaption align = “center”><b>App Clips launch into a rich unauthenticated experience.</b></figcaption>
 
 Links: 
