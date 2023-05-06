@@ -1,10 +1,12 @@
 ---
-title: 'Airbnb Rooms'
+title: 'Airbnb Rooms and a return to skeuomorphism'
 date: 2023-05-06 00:00:00
 layout: post
 ---
 
-Increasingly, I'm started to think of SwiftUI as a design tool that helps define no-missing-pieces design hand-off. Not all parts of a design are visible, and tools like Figma are great to displaying a particular state, dimension and data set, however these will always have their limits. No matter how diligent the designer behind them, during implementation there will be a fair amount of reading between the lines that engineers will need to do to fully realise a design.
+So many nice details in the Airbnb 2023 Summer Release. The playful animation used for onScroll and onTap for the Host Passport is delightful.
+
+It's interesting to increasingly see the return of skeuomorphic design in releases from the past year or so. Arc browser mobile, Apple Books, Hipstamatic (2023), Halide, Flighty, (Not Boring) apps are a few great examples that come to mind. 
 
 Links:
 * [Airbnb 2023 Summer Release](https://www.airbnb.ie/release?locale=en&_set_bev_on_new_domain=1683274040_NWNhYjMwOGVmNWIz)
