@@ -25,7 +25,10 @@ I'll come back to this video in the future, so I thought I'd document some of fa
 ![](/images/posts/IMG_3511.jpeg)
 <figcaption align = "center"><b> In summary SwiftUI allows you to Quickly surface design decisions, Design how things feel, Test in realistic scenarios and Demo on device.</b></figcaption>
 
-The design process of the Maps team feels similar to that which Ken Kocienda lays out in [Creative Selection](https://books.apple.com/ie/book/creative-selection/id1403408298) for how he and and the original "Purple" team followed when creating the first iPhone. Here are some quotes from the book which feel relevant to me:
+
+The design process that the Maps team follow today feels similar to the process which the original "Purple" team used to delivered the first iPhone. This is detailed in [Creative Selection](https://books.apple.com/ie/book/creative-selection/id1403408298) by [Ken Kocienda](https://www.linkedin.com/in/kenkocienda/).
+
+Here are some quotes from the book which feel relevant to me:
 
 > “He (Steve Jobs) used these **demo reviews** as his chief means of deciding how Apple software should look and feel and function.” ― Ken Kocienda, Creative Selection, p. 9
 > 
@@ -54,4 +57,4 @@ The design process of the Maps team feels similar to that which Ken Kocienda lay
 > “We created new demos that were concretely and specifically **targeted to be better than the previous one.**” ― Ken Kocienda, Creative Selection, p. 117
 >  
 
-The theme is that designing in code, with tools like SwiftUI, facilitates the creation of successful products. The improvements in Maps for watchOS 10 looks like a by-product of this process, and I'm looking forward to experiencing these changes later this year. 
+The theme is that designing in code, with tools like SwiftUI, facilitates the creation of successful products. The improvements in Maps for watchOS 10 looks like a by-product of this process, and I'm looking forward to experiencing these changes later this year.  
