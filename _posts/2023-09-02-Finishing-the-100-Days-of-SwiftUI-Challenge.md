@@ -1,5 +1,5 @@
 ---
-title: 'Finishing 100 Days of SwiftUI'
+title: 'Finishing the 100 Days of SwiftUI Challenge'
 date: 2023-09-02 00:00:00
 layout: post
 ---
