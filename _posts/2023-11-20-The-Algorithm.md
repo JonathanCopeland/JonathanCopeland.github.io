@@ -17,16 +17,16 @@ These lessons are transferable to enterprise software development, so I'm docume
 
 Additional quotes:
 
-- All technical managers must have hands-on experience. For example, managers of software teams must spend at least 20% of their time coding. Solar roof managers must spend time on the roofs doing installations. Otherwise, they are like a cavalry leader who can’t ride a horse or a general who can’t use a sword. 
+* All technical managers must have hands-on experience. For example, managers of software teams must spend at least 20% of their time coding. Solar roof managers must spend time on the roofs doing installations. Otherwise, they are like a cavalry leader who can’t ride a horse or a general who can’t use a sword. 
 
-- Comradery is dangerous. It makes it hard for people to challenge each other’s work. There is a tendency to not want to throw a colleague under the bus. That needs to be avoided. 
+* Comradery is dangerous. It makes it hard for people to challenge each other’s work. There is a tendency to not want to throw a colleague under the bus. That needs to be avoided. 
 
-- It’s OK to be wrong. Just don’t be confident and wrong. 
+* It’s OK to be wrong. Just don’t be confident and wrong. 
 
-- Never ask your troops to do something you’re not willing to do. 
+* Never ask your troops to do something you’re not willing to do. 
 
-- When hiring, look for people with the right attitude. Skills can be taught. Attitude changes require a brain transplant. 
+* When hiring, look for people with the right attitude. Skills can be taught. Attitude changes require a brain transplant. 
 
-- A maniacal sense of urgency is our operating principle. 
+* A maniacal sense of urgency is our operating principle. 
 
-- The only rules are the ones dictated by the laws of physics. Everything else is a recommendation.
+* The only rules are the ones dictated by the laws of physics. Everything else is a recommendation.
