@@ -1,3 +1,4 @@
+---
 title: 'The Algorithm'
 date: 2023-11-10 00:00:00
 layout: post
