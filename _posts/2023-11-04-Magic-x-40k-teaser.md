@@ -9,4 +9,5 @@ Over the past the past month or so I've been combining my love of iOS and Magic 
 ![](/images/posts/Magic-x-40k.gif)
 <figcaption align = "center"><b>Magic x 40k teaser</b></figcaption>
 
-Github repository here: [Magic x 40k](https://github.com/JonathanCopeland/Magic-40k/tree/main).
+Links:
+* [Magic x 40k](https://github.com/JonathanCopeland/Magic-40k/tree/main)
