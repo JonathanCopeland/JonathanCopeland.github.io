@@ -1,5 +1,5 @@
 ---
-title: ‘Recreating Magic The Gathering in SwiftUI’
+title: 'Recreating Magic The Gathering in SwiftUI'
 date: 2024-06-24 00:00:00
 layout: post
 youtubeId: iqO7IhUDoes
