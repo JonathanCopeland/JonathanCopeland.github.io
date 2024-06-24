@@ -2,7 +2,7 @@
 title: ‘Recreating Magic The Gathering in SwiftUI’
 date: 2024-06-24 00:00:00
 layout: post
-youtubeId: iqO7IhUDoes
+youtubeId: L1F_jfVjt6I
 ---
 
 Over the past year, I’ve been spending more time exploring design ideas in code.
