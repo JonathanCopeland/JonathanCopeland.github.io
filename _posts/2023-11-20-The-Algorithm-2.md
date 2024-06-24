@@ -6,4 +6,3 @@ layout: post
 
 Test
 
-{% include youtube.html id=“uPwkM6257CE” %}
